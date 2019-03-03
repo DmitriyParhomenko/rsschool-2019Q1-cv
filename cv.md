@@ -6,9 +6,9 @@
 
 * Contacts: 
 
-... Skype: dimon.parhomenko
+ Skype: dimon.parhomenko
 
-... Vk: [https://vk.com/demonsait](https://vk.com/demonsait)
+ Vk: [https://vk.com/demonsait](https://vk.com/demonsait)
 
 
 * My goal in frontend is to create intuitive application interfaces, websites, pages for the user in a minimalist style and beautiful animation. 
@@ -18,21 +18,23 @@ I really want to get into a company in which there are experienced developers wh
 
 * Skills : 
 
-... HTML5, CSS3, Metodologia/BEM, SCSS, LESS, Gulp, JS (basic level), React+Redax ( basic level), photoshop, avacode, git
+ HTML5, CSS3, Metodologia/BEM, SCSS, LESS, Gulp, JS (basic level), React+Redax ( basic level), photoshop, avacode, git
 
 * I work in [http://increase.by](http://increase.by) web developer
 
 * My code:
 
-... [Code 1](https://github.com/DmitriyParhomenko/glo-academy---JavaScript/tree/master/Advice%20Finance)
+ [Code 1](https://github.com/DmitriyParhomenko/glo-academy---JavaScript/tree/master/Advice%20Finance)
 
-... [Code 2](https://github.com/DmitriyParhomenko/glo-academy---JavaScript/tree/master/Diplom)
+ [Code 2](https://github.com/DmitriyParhomenko/glo-academy---JavaScript/tree/master/Diplom)
 
 * Curses:
-... WordPress - https://webraketa.com
-... After training, 4 months worked there in technical support. At the moment, the current owner of the course is different.
-... Web developer 12.0 from layout Academy https://glo-academy.ru/frontenddeveloper
-... Myfreedom https://myfreedom.by/web/frontend
+
+ WordPress - https://webraketa.com
+ After training, 4 months worked there in technical support. At the moment, the current owner of the course is different.
+ Web developer 12.0 from layout Academy https://glo-academy.ru/frontenddeveloper
+ Myfreedom https://myfreedom.by/web/frontend
 
 * English
-... College education, self-study, level pre-intermediate
+
+ College education, self-study, level pre-intermediate
